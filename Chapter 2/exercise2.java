@@ -1,6 +1,6 @@
 /*****************************************************************************
  * Java Programming - From Problem Analysis to Program Design 5th Edition
- * Chapter 2 - Exercise 1
+ * Chapter 2 - Exercise 2
  * markdhoad@gmail.com
  * 
  * 1. Write Java statements that declare the following variables: 

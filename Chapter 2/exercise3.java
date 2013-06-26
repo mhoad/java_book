@@ -1,6 +1,6 @@
 /*****************************************************************************
  * Java Programming - From Problem Analysis to Program Design 5th Edition
- * Chapter 2 - Exercise 1
+ * Chapter 2 - Exercise 3
  * markdhoad@gmail.com
  * 
  * Repeat Exercise 2 by declaring num1, num2, and num3, and average of type
